@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in VBScript caused by late binding. Late binding, while offering flexibility, lacks compile-time checks, leading to runtime failures if the referenced object or method is unavailable. The example shows how to mitigate this risk by implementing early binding or robust error handling.
